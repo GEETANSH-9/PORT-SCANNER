@@ -1,0 +1,119 @@
+[
+    {
+        "Host": "45.33.32.156",
+        "Port": 22,
+        "Service": "ssh",
+        "Version": "6.6.1p1 Ubuntu 2ubuntu2.13",
+        "CVE": "CVE-1999-0013",
+        "CVSS": 8.4,
+        "Risk": "HIGH (CVSS 8.4) \u2014 SSH \u2014 brute-force risk"
+    },
+    {
+        "Host": "45.33.32.156",
+        "Port": 25,
+        "Service": "smtp",
+        "Version": "",
+        "CVE": "CVE-1999-0203",
+        "CVSS": 10.0,
+        "Risk": "CRITICAL (CVSS 10.0) \u2014 SMTP \u2014 check for open relay"
+    },
+    {
+        "Host": "45.33.32.156",
+        "Port": 53,
+        "Service": "domain",
+        "Version": "",
+        "CVE": "CVE-1999-1115",
+        "CVSS": 7.2,
+        "Risk": "HIGH (CVSS 7.2) \u2014 DNS \u2014 amplification attack risk"
+    },
+    {
+        "Host": "45.33.32.156",
+        "Port": 80,
+        "Service": "http",
+        "Version": "2.4.7",
+        "CVE": "CVE-1999-0236",
+        "CVSS": 7.5,
+        "Risk": "HIGH (CVSS 7.5) \u2014 HTTP \u2014 traffic unencrypted"
+    },
+    {
+        "Host": "45.33.32.156",
+        "Port": 135,
+        "Service": "msrpc",
+        "Version": "",
+        "CVE": "CVE-2002-1873",
+        "CVSS": 5.0,
+        "Risk": "MEDIUM (CVSS 5.0) \u2014 RPC \u2014 Windows vulnerability exposure"
+    },
+    {
+        "Host": "45.33.32.156",
+        "Port": 139,
+        "Service": "netbios-ssn",
+        "Version": "",
+        "CVE": "No CVE found",
+        "CVSS": 0.0,
+        "Risk": "HIGH \u2014 NetBIOS \u2014 information leakage"
+    },
+    {
+        "Host": "45.33.32.156",
+        "Port": 445,
+        "Service": "microsoft-ds",
+        "Version": "",
+        "CVE": "CVE-2002-0597",
+        "CVSS": 5.0,
+        "Risk": "MEDIUM (CVSS 5.0) \u2014 SMB \u2014 ransomware / EternalBlue target"
+    },
+    {
+        "Host": "45.33.32.156",
+        "Port": 5900,
+        "Service": "vnc",
+        "Version": "",
+        "CVE": "Rate limited",
+        "CVSS": 0.0,
+        "Risk": "HIGH \u2014 VNC \u2014 remote desktop exposure"
+    },
+    {
+        "Host": "45.33.32.156",
+        "Port": 9929,
+        "Service": "nping-echo",
+        "Version": "",
+        "CVE": "No CVE found",
+        "CVSS": 0.0,
+        "Risk": "LOW"
+    },
+    {
+        "Host": "45.33.32.156",
+        "Port": 10001,
+        "Service": "scp-config",
+        "Version": "",
+        "CVE": "No CVE found",
+        "CVSS": 0.0,
+        "Risk": "LOW"
+    },
+    {
+        "Host": "45.33.32.156",
+        "Port": 31337,
+        "Service": "tcpwrapped",
+        "Version": "",
+        "CVE": "No CVE found",
+        "CVSS": 0.0,
+        "Risk": "LOW"
+    },
+    {
+        "Host": "10.54.134.82",
+        "Port": 5000,
+        "Service": "rtsp",
+        "Version": "",
+        "CVE": "CVE-2002-0781",
+        "CVSS": 5.0,
+        "Risk": "MEDIUM (CVSS 5.0)"
+    },
+    {
+        "Host": "10.54.134.82",
+        "Port": 7000,
+        "Service": "rtsp",
+        "Version": "",
+        "CVE": "CVE-2002-0781",
+        "CVSS": 5.0,
+        "Risk": "MEDIUM (CVSS 5.0)"
+    }
+]
